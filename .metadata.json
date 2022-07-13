@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "Rmixmod",
+    "oncran": true
+  }
+]
