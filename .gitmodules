@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Rmixmod"]
 	path = Rmixmod
 	url = https://github.com/mixmod/mixmod
-	shallow = true
 	subdir = Rmixmod
-	registered = true
